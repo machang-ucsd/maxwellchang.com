@@ -37,16 +37,16 @@ export default function App() {
           </p>
         </div>
 
-        {/* My interests*/}
+        {/* My interests */}
         <div className="text-left space-y-2">
           <h2 className="text-xs sm:text-sm font-bold uppercase tracking-wider text-gray-400">
-            What I am interested in!
+            My Interests
           </h2>
           <p className="text-sm sm:text-base text-gray-700 leading-relaxed">
-            I am interested in Hardware Engineering positions in collaborative,
-            fast-paced environments. I'm particularly interested in companies
-            willing to push the limits of hardware performance whether its Tech
-            companies or Quantitative Trading Firms.
+            I enjoy working on high-performance hardware systems and following
+            developments in cloud infrastructure and quantitative trading
+            technology. I am especially interested in projects that push
+            hardware performance, reliability, and scale.
           </p>
         </div>
 
